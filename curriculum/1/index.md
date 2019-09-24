@@ -8,12 +8,12 @@
   <!-- * [Pennies](https://docs.cs50.net/2019/ap/problems/pennies/pennies.html) -->
   <!-- * [Cash](https://docs.cs50.net/2019/ap/problems/cash/cash.html) or [Credit](https://docs.cs50.net/2019/ap/problems/credit/credit.html) -->
   <!-- * [Mario(less comfy)](https://docs.cs50.net/2019/ap/problems/mario/less/mario.html) or [Mario(more comfy)](https://docs.cs50.net/2019/ap/problems/mario/more/mario.html) -->
-<!-- * Shorts -->
+* Shorts
   <!-- * [Command Line](https://www.youtube.com/watch?v=lnYKOnz9ln8) -->
   <!-- * [Conditional Statements](https://www.youtube.com/watch?v=FqUeHzvci10) -->
   <!-- * [Data Types](https://www.youtube.com/watch?v=q6K8KMqt8wQ) -->
   <!-- * [Loops](https://www.youtube.com/watch?v=QOvo-xFL9II) -->
-  <!-- * [Operators](https://www.youtube.com/watch?v=7apBtlEkJzk) -->
+  * [Operators](https://www.youtube.com/watch?v=7apBtlEkJzk)
 <!-- * [Slides](https://cdn.cs50.net/2018/fall/lectures/1/lecture1.pdf) -->
 <!-- * Source Code -->
   <!-- * [Index](https://cdn.cs50.net/2018/fall/lectures/1/src1/) -->
