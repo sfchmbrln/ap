@@ -13,6 +13,6 @@
   * [Algorithms](https://ap.cs50.school/assets/pdfs/algorithms.pdf)
   * [Memory](https://ap.cs50.school/assets/pdfs/memory.pdf)
   <!-- * [ASCII](https://ap.cs50.school/assets/pdfs/ascii.pdf) -->
-  <!-- * [Binary](https://ap.cs50.school/assets/pdfs/binary.pdf) -->
-  <!-- * [Pseudocode](https://ap.cs50.school/assets/pdfs/pseudocode.pdf) -->
+  * [Binary](https://ap.cs50.school/assets/pdfs/binary.pdf)
+  * [Pseudocode](https://ap.cs50.school/assets/pdfs/pseudocode.pdf)
   <!-- * [Scratch](https://ap.cs50.school/assets/pdfs/scratch.pdf) -->
